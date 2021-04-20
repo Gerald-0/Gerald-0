@@ -1,6 +1,6 @@
 ### Hi there, I'm [Gerald!](https://anuraghazra.github.io) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://codesandbox.io/u/Gerald-0">
   <img align="left" alt="Gerald Santos | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="">
