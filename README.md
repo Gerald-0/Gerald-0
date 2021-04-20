@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Gerald Gabriel, a passionate self-taught frontEnd web developer .                            
+Hi, I'm Gerald Gabriel, a developer progressing to growth in this new area .                            
 
 - [👔 Social](#-social-)
 
