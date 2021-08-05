@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Gerald Gabriel, a developer progressing to growth in this new area                             
+# Hi,a developer progressing to growth in this new area.                            
 
 - [👔 Social](#-social-)
 
@@ -25,6 +25,7 @@ Hi, I'm Gerald Gabriel, a developer progressing to growth in this new area
 
 **Tools in progress:**  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
- 
+  
+  ![Snake animation](https://github.com/Gerald-0/Gerald-0/blob/output/github-contribution-grid-snake.svg)
 
 
