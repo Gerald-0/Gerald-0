@@ -6,14 +6,6 @@
 <a href="">
   <img align="left" alt="Gerald santos Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
- <div>
-  <a href="https:https://github.com/Gerald-0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerald-0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald-0&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br />
-<br />
-
 # Hi,a developer progressing to growth in this new area.                            
 
 - [👔 Social](#-social-)
@@ -26,4 +18,10 @@
 **Tools in progress:**  
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   
-
+<div>
+  <a href="https:https://github.com/Gerald-0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerald-0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald-0&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br />
+<br />
