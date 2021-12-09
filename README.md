@@ -1,15 +1,26 @@
 ### Hi there, I'm [Gerald!](https://anuraghazra.github.io) 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<a href="https://codesandbox.io/u/Gerald-0">
-  <img align="left" alt="Gerald Santos | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="">
-  <img align="left" alt="Gerald santos Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-# Hi,a developer progressing to growth in this new area.                            
+<p align="left"> 
+  🌎 Sou <strong>Estudante Desenvolvedor software</strong> e <strong>UI Designer</strong>.
+</p>
 
-- [👔 Social](#-social-)
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, PHP, Bootstrap, MYSQL</strong>
+</p>
 
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Figma, Git e GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+</p>
+
+  <a href="www.linkedin.com/in/gerald-santos" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+  
 **Tools:**  
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
