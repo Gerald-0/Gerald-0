@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, PHP, Bootstrap, MYSQL</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, MYSQL, Python</strong>
 </p>
 
 <p align="left">
@@ -16,16 +16,35 @@
 <p align="left">
   💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 </p>
-
-  <a href="www.linkedin.com/in/gerald-santos" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
-  </a>
   
-**Tools:**  
-
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
-
 **Tools in progress:**  
+
+<div style="display: inline_block"  align="center" >
+  </br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+<div align="center">
+
+<a href = "geraldgabrields@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00ffff" target="_blank" alt="Gmail">
+</a>
+  
+<a href="https://www.linkedin.com/in/gerald-santos/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00ffff" target="_blank" alt="LinkedIn">
+</a>
+</div>
+<div align="right" style="">
+  <code>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=gerald-santos">
+  </code>
+</div>
 
   
 <div>
